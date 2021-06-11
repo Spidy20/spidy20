@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://github.com/Spidy20/spidy20/blob/main/demo.gif" width="360"/>
 
 
-## Hey there 👋 My name is Kushal Bhavsar, People know me as spidy🕷️ 
+## Hey there 👋 My name is Kushal Bhavsar, people know me as spidy🕷️ 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushal-bhavsar/)&nbsp; 
 ![](https://Visitor-badge.glitch.me/badge?page_id=spidy20.profileviews-badge)
