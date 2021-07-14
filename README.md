@@ -16,7 +16,7 @@
 
 
 
-### I am a YouTube Content Creater , Machine Learning enthusiast , Pythonist, Open Source Contributor.
+### I am a YouTube Content Creater, Machine Learning enthusiast, Pythonist, Open Source Contributor.
  
 
 🌱 I’m currently exploring: My self who can build a great future in Data Science field.
