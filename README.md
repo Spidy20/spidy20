@@ -6,14 +6,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushal-bhavsar/)&nbsp; 
 ![](https://Visitor-badge.glitch.me/badge?page_id=spidy20.profileviews-badge)
 
-<a href="https://www.youtube.com/channel/UCgyQ4pSntDf9hw9Rv4hmNBA">
- <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCgyQ4pSntDf9hw9Rv4hmNBA&key=AIzaSyBBs5FjWWWy_cZNhsYrGEwxD1hK96QfXG4&?label=Views&style=for-the-badge&color=red&labelColor=ce4630"/>
-</a>
 
-<a href="https://www.youtube.com/channel/UCgyQ4pSntDf9hw9Rv4hmNBA">
- <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCgyQ4pSntDf9hw9Rv4hmNBA&key=AIzaSyBBs5FjWWWy_cZNhsYrGEwxD1hK96QfXG4&?label=Views&style=for-the-badge&color=red&labelColor=ce4630"/>
-</a>
-
+# 7.8K Subcribers [Machine Learninig Hub](https://www.youtube.com/channel/UCgyQ4pSntDf9hw9Rv4hmNBA)
+# 500K+ Views [Machine Learninig Hub](https://www.youtube.com/channel/UCgyQ4pSntDf9hw9Rv4hmNBA)
 
 
 ### I am a YouTube Content Creater, Machine Learning enthusiast, Pythonist, Open Source Contributor.
