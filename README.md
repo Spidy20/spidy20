@@ -11,12 +11,10 @@
 # 650K+ Views @ [Machine Learninig Hub](https://www.youtube.com/channel/UCgyQ4pSntDf9hw9Rv4hmNBA)
 
 
-### I am a YouTube Content Creater, Machine Learning enthusiast, Pythonist, Open Source Contributor.
+### I am a YouTube Content Creator by passion and Machine Learning Engineer as a professional.
  
 
 🌱 I’m currently exploring: My self who can build a great future in Data Science field.
-
-🔭 I’m currently working on : Machine Learning Hub YouTube Channel.
 
 💬 Ask me about: Python, Machine Learning, Jokes, Memes and a songs🎧
 
