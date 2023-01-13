@@ -12,7 +12,7 @@
 
 
 ### I am a YouTube Content Creator by passion and Machine Learning Engineer as a professional.
-### [2x AWS Certified (AWS Machine Learning Specialist)](https://www.credly.com/users/kushal-bhavsar.e4119c04/badges)
+### [2x AWS Certified (AWS Machine Learning Specialist)](https://www.credly.com/users/bhavsar-kushal/badges)
  
 
 🌱 I’m currently exploring: My self who can build a great future in Data Science field.
