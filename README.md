@@ -63,11 +63,9 @@
 | [PyMusic-Player(Full GUI Music Player with basic Functionality)](https://github.com/Spidy20/PyMusic_Player) | 
 | :---: |
 
+![Spidy's github stats](https://github-readme-stats.vercel.app/api?username=spidy20&show_icons=true&theme=dark)
 
-<!-- ### GitHub' Stats📈
-![Spidy20's github stats](https://github-readme-stats.vercel.app/api?username=spidy20&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spidy20&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=spidy20&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 #### If you like that's what I am doing, then buy me a Coffee☕
 
