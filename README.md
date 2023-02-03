@@ -7,8 +7,8 @@
 ![](https://Visitor-badge.glitch.me/badge?page_id=spidy20.profileviews-badge)
 
 
-# 9.2K Subcribers @ [Machine Learning Hub](https://www.youtube.com/channel/UCgyQ4pSntDf9hw9Rv4hmNBA)
-# 700K+ Views @ [Machine Learning Hub](https://www.youtube.com/channel/UCgyQ4pSntDf9hw9Rv4hmNBA)
+# 10.1K Subcribers @ [Machine Learning Hub](https://www.youtube.com/channel/UCgyQ4pSntDf9hw9Rv4hmNBA)
+# 800K+ Views @ [Machine Learning Hub](https://www.youtube.com/channel/UCgyQ4pSntDf9hw9Rv4hmNBA)
 
 
 ### I am a YouTube Content Creator by passion and Machine Learning Engineer as a professional.
